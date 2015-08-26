@@ -23,7 +23,7 @@ Franklin’s algorithm is for processes arranged in an undirected ring. Each nod
 – Passive nodes only pass on messages.
 – The loop continues until a leader with highest unique ID has been elected.
 
-![alt tag](https://www.dropbox.com/s/haa6s2kohbyrkte/franklin.png?dl=0)
+https://www.dropbox.com/s/haa6s2kohbyrkte/franklin.png?dl=0
 
 See the above image. Considering the topology in Figure 1. the processes are connected in a ring with their unique identifiers as shown. After the first round, processes with ID 0, 1 and 2 become relays as they are the smallest in the immediate neighbourhood.
 Figure 1. Figure 2. Figure 3. Figure 4.
